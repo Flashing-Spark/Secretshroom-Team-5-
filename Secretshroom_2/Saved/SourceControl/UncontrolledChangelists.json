@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Secretshroom.umap"
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Secretshroom.umap",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/M_Trawa.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/T_Trawa.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/F_trawa3.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/T-huusi.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/Trawa.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/Trawa_Niska.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/M_Fern.uasset",
+				"C:/Users/flash/Desktop/Secretshroom/Secretshroom-Team-5-/Secretshroom_2/Content/Mapa_Assety/Assets/M_testtwawa.uasset"
 			]
 		}
 	]
