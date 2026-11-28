@@ -1,16 +1,5 @@
-[7232:28488:1127/171420.746:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7232:27592:1127/171420.794:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7232:28488:1127/171420.806:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14504:29052:1127/171424.915:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7232:28856:1127/171424.921:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[25244:15824:1127/171426.905:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-669CB16A6013C72D718D57FB7EDF569C will be ignored
-[22896:2268:1127/171427.224:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-06CB17E8A5593753405DCD7815EC8D0D will be ignored
-[30372:24832:1127/171427.376:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[7232:28488:1127/171427.850:ERROR:device_event_log_impl.cc(196)] [17:14:27.830] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
-[7232:28856:1127/171429.925:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14504:30020:1127/171429.931:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7232:28856:1127/171439.928:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14504:30020:1127/171439.947:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7232:28680:1127/171459.933:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[14504:30020:1127/171459.960:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7232:28488:1127/190932.341:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[31680:27000:1127/201130.014:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31680:28876:1127/201130.064:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31680:27000:1127/201130.081:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8152:22724:1127/201136.267:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8093AD8AE04B3E6D234D6D78300D1E66 will be ignored
+[31680:27000:1127/212444.297:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
